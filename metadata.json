@@ -1,0 +1,6 @@
+{
+  "name": "JIMMY — Your Personal AI Companion",
+  "description": "A premium, futuristic personal AI companion featuring an original reactive CSS glowing orb, voice interface, glassmorphism UI, multilingual capabilities, and conversation management.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
